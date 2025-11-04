@@ -45,7 +45,7 @@ For a repository at `/home/user/workspace/api-platform`, the worktree will be cr
 **Commands executed:**
 ```bash
 git fetch upstream
-git worktree add /home/user/workspace/api-platform-specs specs
+git worktree add /home/user/workspace/api-platform-specs upstream/specs
 ```
 
 **File:** `{repo_root}/.apip/settings.yaml`
