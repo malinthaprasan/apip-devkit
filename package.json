@@ -1,6 +1,6 @@
 {
   "name": "@malinthaprasan/apip-devkit",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "API Platform Dev Kit - CLI tool for API platform development",
   "main": "dist/index.js",
   "type": "module",
