@@ -8,7 +8,7 @@ const program = new Command();
 program
   .name('apip-devkit')
   .description('API Platform Dev Kit - CLI tool for API platform development')
-  .version('1.0.0');
+  .version('0.0.3');
 
 // Init command
 program
